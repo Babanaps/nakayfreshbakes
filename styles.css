@@ -611,8 +611,12 @@ transition: all 0.3s ease;
 @media screen and (max-width: 480px){
     .footer__link--items{
         margin: 0;
-        padding: 10px;
-        width: 160px;
-       
+        padding: 10px;    
+    }
+     .footer__links{
+        transform: scale(0.8, 0.8);
+    }
+    .social__media{
+        transform: scale(0.8, 0.8);
     }
 }
