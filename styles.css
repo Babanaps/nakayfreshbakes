@@ -641,5 +641,6 @@ transition: all 0.3s ease;
     }
      .services button{
     font-size: 1.2rem;
+         left: 100px;
     }
 }
