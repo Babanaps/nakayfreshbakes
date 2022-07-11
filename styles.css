@@ -625,6 +625,6 @@ transition: all 0.3s ease;
         transform: scale(0.6, 0.6);
     }
     #navbar__logo{
-        transform: scale(0.7, 0.7);
+        transform: scale(0.5, 0.5);
     }
 }
