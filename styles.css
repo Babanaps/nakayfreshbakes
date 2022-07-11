@@ -635,6 +635,8 @@ transition: all 0.3s ease;
     margin: 0.5rem;
     height: 525px;
     width: 300px;
-   
-}
+    }
+     .services__card h2{
+    font-size: 0.5rem;
+    }
 }
