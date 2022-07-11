@@ -637,6 +637,9 @@ transition: all 0.3s ease;
     width: 300px;
     }
      .services__card h2{
-    font-size: 0.5rem;
+    font-size: 1rem;
+    }
+     .services__card button{
+    font-size: 1rem;
     }
 }
