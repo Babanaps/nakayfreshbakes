@@ -619,12 +619,12 @@ transition: all 0.3s ease;
 @media screen and (max-width: 480px){
     
      .footer__links{
-        transform: scale(0.7, 0.7);
+        transform: scale(0.6, 0.6);
     }
     .social__media{
-        transform: scale(0.7, 0.7);
+        transform: scale(0.6, 0.6);
     }
     #navbar__logo{
-        transform: scale(0.7, 0.7)
+        transform: scale(0.7, 0.7);
     }
 }
