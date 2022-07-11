@@ -625,10 +625,10 @@ transition: all 0.3s ease;
         transform: scale(0.6, 0.6);
     }
     #navbar__logo{
-        font-size: 1.2rem
+        font-size: 1.2rem;
         width: 100%;
     }
     .services{
-        transform: scale(0.8, 0.8);
+        transform: scale(0.6, 0.6);
     }
 }
