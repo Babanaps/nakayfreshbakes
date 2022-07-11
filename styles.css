@@ -628,7 +628,4 @@ transition: all 0.3s ease;
         font-size: 0.8rem;
         width: 100%;
     }
-    .services{
-        transform: scale(0.5, 0.5);
-    }
 }
