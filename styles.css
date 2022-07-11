@@ -471,7 +471,7 @@ transition: all 0.3s ease;
         height: 1400px;
     }
     .services h1{
-        font-size: 2.2rem;
+        font-size: 2rem;
     }
 
     .services__card{
@@ -641,6 +641,6 @@ transition: all 0.3s ease;
     }
      .services button{
     font-size: 1.2rem;
-         left: 100px;
+         left: 80px;
     }
 }
