@@ -627,4 +627,7 @@ transition: all 0.3s ease;
     #navbar__logo{
         width: 100%;
     }
+    .services{
+        transform: scale(0.8, 0.8);
+    }
 }
