@@ -614,6 +614,9 @@ transition: all 0.3s ease;
         padding: 10px;    
     }
 }
+
+
+
 /*updates*/
 /*mobile responsive: max width 480px*/
 @media screen and (max-width: 480px){
@@ -628,4 +631,10 @@ transition: all 0.3s ease;
         font-size: 0.8rem;
         width: 100%;
     }
+    .services__card{
+    margin: 0.5rem;
+    height: 525px;
+    width: 300px;
+   
+}
 }
